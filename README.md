@@ -4,7 +4,6 @@ Welcome to **EasyPythonProblems**! This repository contains beginner-friendly Py
 ## 📌 **What's Inside?**
 - ✅ **Basic Problems** (e.g., FizzBuzz, Factorial, Reverse String)
 - ✅ **Medium-Level Problems** (e.g., Palindrome Check, Anagram, Fibonacci)
-- ✅ **LeetCode Practice Questions**
 - ✅ **Detailed Explanations & Solutions**
 
 ## 🚀 **Getting Started**
